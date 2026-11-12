@@ -1,4 +1,4 @@
-Hello everyone! My name is Sahar Hirez. I am an Artificial Intelligence Engineering student. I am interested in technology, programming, and AI. I enjoy learning new things, developing my skills, and exploring new ideas. I’m happy to be here and excited to meet you all! 😊
+Hi! My name is Sahar Hirez. I am an AI Engineering student. I am interested in technology, programming, and AI. I enjoy learning new things, developing my skills, and exploring new ideas. I’m happy to be here and excited to meet you all! 😊
 
 <!--
 **Sahar2008/Sahar2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
